@@ -12,4 +12,4 @@
 - **JavaScript** — для реализации интерактивных элементов.
 
 ## Вид проекта
-Готовый проект на GitHub Pages: [Russian Travel на GitHub Pages](https://yaraver.github.io/russian-travel/).
+Готовый проект на GitHub Pages: [Russian Travel на GitHub Pages](https://yaraver.github.io/russian-travel/index.html).
